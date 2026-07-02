@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+
+    /* Add CSS Styling */
+
+    .some-class {
+    background-color: #d46aa4; font-family: Verdana, "DejaVu Sans", sans-serif
+   }
+
+   #id-one {
+    color: rgb(62,60,199); font-size: 36px
+}
+
+.special {
+    font-size: 24px;
+}
+
+#id-four {
+    background-color: rgb(123,209,139); font-weight: bold; font-size: 24px;
+}
